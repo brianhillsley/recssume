@@ -1,0 +1,40 @@
+	html {
+		background-color: #fff!important;
+		font-size: 13pt;
+		font-family: verdana,sans-serif;
+	}
+	header {
+		display: block;
+		width: 100%;
+	}
+	ul {
+		list-style-type:none;
+	}
+	#contact {
+		color:blue;
+	}
+	#linkedin {}
+	#email {}
+	#phone {}
+	#date {}
+	#dateRange {}
+	#otherPages li{ display: inline-block;}
+
+	#contact {
+		background-color: #77a8a8;
+		float: right;
+
+	}
+	
+	#work, #projects, #skills, #education, #achievements{
+		background-color: #d9ecd0;
+		padding: 0.5em;
+	}
+
+
+	div#skills {
+		display: block;
+		background-color: #e4d1d1;
+		float: right;
+		clear: both;
+	}
